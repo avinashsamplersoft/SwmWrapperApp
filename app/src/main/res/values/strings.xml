@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">SwmWrapperApp</string>
+
+    <string name="start_my_day">Start Duty</string>
+    <string name="start_my_trip">Start Trip</string>
+    <string name="end_my_trip">End Trip</string>
+    <string name="mark_as_inspected">Mark as Inspected</string>
+    <string name="end_trip_continue">Please, end the trip to continue</string>
+    <string name="attendance_is_already_marked">Attendance has already been marked for the day</string>
+    <string name="mark_attendance_for_trip">Please, mark attendance to start trip</string>
+    <string name="trip_error">Trip error</string>
+    <string name="trip_ended">Trip Ended</string>
+    <string name="trip_started">Trip Started</string>
+    <string name="render_error">Render Error</string>
+    <string name="please_provide_location">Please, Provide Permission to get the current location</string>
+    <string name="camera_permission_granted">Camera Permission Granted</string>
+    <string name="camera_permission_denied">camera permission denied</string>
+    <string name="coming_soon">Coming soon: </string>
+    <string name="attendance_error">Attendace error</string>
+    <string name="retry">Retry</string>
+    <string name="action_required">Satisfactory</string>
+    <string name="reason">Reason</string>
+    <string name="no_image_found">No image Found</string>
+    <string name="inspection_report">Inspection Report</string>
+    <string name="select_reason">Select Reason</string>
+    <string name="show_all">Show All</string>
+    <string name="no_data">No data</string>
+    <string name="na">NA</string>
+    <string name="delete">DELETE</string>
+    <string name="comment">Comments</string>
+    <string name="last_inspected">Last inspected: %s</string>
+    <string name="complaint_id">Complaint ID: %s</string>
+    <string name="take_action">Take Action</string>
+    <string name="mark_as_resolved">Mark as Resolved</string>
+    <string name="profile_updated">profile updated</string>
+    <string name="please_capture_photo">Please capture photo</string>
+    <string name="update_failed">Update Failed, retry again</string>
+    <string name="update_error">Update error</string>
+    <string name="updated">Updated</string>
+    <string name="success">Success</string>
+    <string name="data_escalate_error">Data Escalate error</string>
+    <string name="issue_escalated">Issue Escalated</string>
+
+    <string name="action_taken">Action Taken</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="new_user">New user?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="msg_token_fmt">%s</string>
+    <string name="default_notification_channel_id">SWM channel</string>
+    <string name="registration">Registration</string>
+    <string name="password_should_be_a_combination_of_number_and_special_character">Password should be a combination of number and special character and password length should have atleast 6 characters <b>(Example:-pass@12)</b></string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="ward_no">Ward number</string>
+    <string name="email_id">Email id</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_verified_mobile_number_and_we_will_send_you_an_otp_to_reset_your_password">Enter your verified mobile number and we will send you an OTP to reset your password</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="escalate">Escalate</string>
+
+    <string name="error_format_invalid">Format is invalid</string>
+    <string name="error_too_short">Too short</string>
+    <string name="empty">%1$s</string>
+
+    <string name="first_name">First Name</string>
+    <string name="update">Update</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="complaints">Complaints</string>
+    <string name="complaints_ward">Complaints from %s</string>
+    <string name="write_a_comment">write a comment</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="next">Next</string>
+    <string name="open">Open</string>
+    <string name="pending">Pending</string>
+    <string name="edit">Edit</string>
+    <string name="resolved">Resolved</string>
+    <string name="closed">Closed</string>
+    <string name="date_created">Date Created</string>
+    <string name="last_modified">Last modified</string>
+    <string name="priority">Priority</string>
+    <string name="status">Status</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="zone">Zone level</string>
+    <string name="new_ticket">New Ticket</string>
+    <string name="title">Title</string>
+    <string name="raised_by">Raised By</string>
+    <string name="assigned_to">Assigned To</string>
+    <string name="ward_number">Ward number</string>
+    <string name="comments">Write a comment…</string>
+    <string name="description">Description</string>
+    <string name="assets">Assets</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="vehicle_details">Vehicle Details</string>
+    <string name="field_required">Field required</string>
+    <string name="enter_correct_number">Invalid phone number</string>
+    <string name="enter_correct_email">Invalid emailId</string>
+    <string name="min_six_char_required">Minimum 6 characters required</string>
+    <string name="failed_location">Failed to get the current location</string>
+    <string name="otp_validation">Otp Validation</string>
+    <string name="authenticate_your_mobile_number">Authenticate your mobile number</string>
+    <string name="please_enter_one_time_password_otp_received_on_your_registered_mobile_number">Please enter One Time Password (OTP) received on your registered mobile number</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_validation">Confirm Validation</string>
+    <string name="not_received_your_code">Not received your code?</string>
+    <string name="resend_code">Resend code</string>
+    <string name="enter_valid_otp">please enter valid otp</string>
+    <string name="please_select_zone">Please select zone</string>
+    <string name="please_select_ward">Please select ward</string>
+    <string name="please_select_bin">Please, select bin</string>
+    <string name="fill_details">Please fill proper details</string>
+    <string name="something_went_wrong">Oops!..something went wrong!</string>
+    <string name="data_retrieve_error">Data retrieve error</string>
+    <string name="fetching_error">Fetching Error</string>
+    <string name="network_connection">Check your network and try again..</string>
+    <string name="end_my_day">End Duty</string>
+    <string name="garbage_depots_in_your_ward">Garbage Depots in your Ward</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_inspection">Daily Inspection of %s</string>
+    <string name="upload">upload</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="inspection_done">Inspection Done</string>
+    <string name="address">Address</string>
+    <string name="location_lable">Location</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="server_error">Server error, please try again later</string>
+    <string name="incorrect_password">incorrect password or phone number</string>
+    <string name="http400_error">HTTP 400</string>
+    <string name="http401_error">HTTP 401</string>
+    <string name="welcome_user">Welcome %s</string>
+    <string name="pending_list">PENDING_LIST</string>
+    <string name="new_list">NEW_LIST</string>
+    <string name="resolved_list">RESOLVED_LIST</string>
+    <string name="raised_on">Raised on: %s</string>
+    <string name="resolved_on">Resolved on: %s</string>
+    <string name="escalate_issue_descp">Please, call supervisor to inform about escalated issue</string>
+    <string name="call_now">Call now</string>
+
+    <!--User Role Ids-->
+    <string name="FB_HEALTH_INSPECTOR">healthInspectorId</string>
+    <string name="FB_SUPERVISOR">supervisorId</string>
+    <string name="FB_DRIVER">driverId</string>
+
+    <!--App update-->
+
+    <string name="FB_RC_KEY_TITLE">update_title</string>
+    <string name="FB_RC_KEY_DESCRIPTION">update_description</string>
+    <string name="FB_RC_KEY_FORCE_UPDATE_VERSION">force_update_version</string>
+    <string name="FB_RC_KEY_LATEST_VERSION">latest_version</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="citizen_title">Solid Waste Management App</string>
+    <string name="vehicle_vicinity">Vehicle \n Vicinity</string>
+    <string name="no_vehicle_vicinity">No vehicle found in the area</string>
+    <string name="successfully_changed_language">Successfully changed language</string>
+
+    <string name="UPDATE_AVAILABLE">Update Available</string>
+    <string name="UPDATE_DESCRIPTION">A new version of the application is available please click below to update the latest version.</string>
+    <string name="UPDATE_NOW">Update Now</string>
+
+    <string name="inspection_title">Inspection</string>
+    <string name="complaint_title">Complaints</string>
+    <string name="surprise_title">Surprise Inspection Report</string>
+    <string name="complaints_escalation_title">Complaints Escalations</string>
+    <string name="attendance_record">Subordinates Attendance</string>
+    <string name="user_attendance">Self Attendance</string>
+    <string name="select_ward">Select Ward</string>
+    <string name="imp_ward">\u002A Ward</string>
+    <string name="select_zone">Select Zone</string>
+    <string name="garbage_depot">Garbage Depots</string>
+    <string name="action_required_title">Action Required</string>
+    <string name="select_the_reason">Select the reason</string>
+    <string name="location_view">Location View</string>
+
+    <string name="validation_health_inspector">Health Inspector</string>
+    <string name="validation_driver">Driver</string>
+    <string name="validation_Supervisor">Supervisor</string>
+    <string name="validation_citizen">Citizen</string>
+
+    <string name="change_langauage">Change Language</string>
+    <string name="how_to_use">How to use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="help">Help</string>
+
+    <string-array name="laguage">
+        <item>English</item>
+        <item>हिन्दी</item>
+    </string-array>
+
+    <string name="english">en</string>
+    <string name="hindi">hi</string>
+    <string name="users">Users</string>
+    <string name="designation">Designation</string>
+    <string name="attendance">Attendance</string>
+    <string name="select_date_range">Select Date range</string>
+    <string name="last_10_days">Last 10 days</string>
+    <string name="total_days">Total Days</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+</resources>
